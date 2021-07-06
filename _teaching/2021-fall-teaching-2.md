@@ -1,5 +1,5 @@
 ---
-title: "2021 - Falls - Domestic Politics and International Cooperation"
+title: "2021 - Fall - Domestic Politics and International Cooperation"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-fall-teaching-2
