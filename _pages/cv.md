@@ -13,7 +13,7 @@ Education
 ======
 * B.A. in Political Science, University of Vienna, 2016
 * M.A. in Political Science, University of Mannheim, 2018
-* Ph.D in Political Science, University of Mannheim, 2022 (expected)
+* PhD in Political Science, University of Mannheim, 2022 (expected)
 
 Publications
 ======
