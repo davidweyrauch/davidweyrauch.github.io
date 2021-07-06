@@ -9,8 +9,6 @@ location: "Mannheim, Germany"
 ---
   
 
-## Course Description
-
 This course introduced undergraduate students to quantitative methods used for research in the field of international relations and European integration. The goal is to equip students with the skills necessary to write a successful BA thesis and to train them to do so using the statistical package STATA. The course emphasizes data management, descriptive statistics, data visualization, techniques for dealing with continuous, binary and count dependent variables, time-series cross-sectional data as well as regression diagnostics. A good working knowledge of statistics is a prerequisite for successful participation in the class.
 
 
