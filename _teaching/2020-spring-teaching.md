@@ -7,8 +7,8 @@ venue: "University of Mannheim, Department of Political Science II - European Po
 date: 2020-02-18
 location: "Mannheim, Germany"
 ---
-
-test test test
+ 
+  
 
 ## Course Description
 
