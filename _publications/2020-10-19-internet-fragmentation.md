@@ -13,4 +13,4 @@ Is the internet at risk of fragmentation? Whereas the literature has examined th
 
 [Download paper here](https://onlinelibrary.wiley.com/doi/full/10.1111/1758-5899.12873)
 
-'Weyrauch, D. and Winzen, T. (2021), &quot;Internet Fragmentation, Political Structuring, and Organizational Concentration in Transnational Engineering Networks.&quot; <i>Global Policy</i>. 12: 51-65.'
+Weyrauch, D. and Winzen, T. (2021). &quot;Internet Fragmentation, Political Structuring, and Organizational Concentration in Transnational Engineering Networks.&quot; <i>Global Policy</i>. 12: 51-65.
