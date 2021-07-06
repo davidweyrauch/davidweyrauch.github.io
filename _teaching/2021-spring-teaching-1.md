@@ -1,9 +1,14 @@
 ---
-title: "Determinants of International Cooperation"
+title: "2021 - Spring - Quantitative Methods in International Relations"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2020-fall-teaching-1
+permalink: /teaching/2021-spring-teaching-1
 venue: "University of Mannheim, Department of Political Science II - European Politics"
-date: 2020-09-01
+date: 2021-03-01
 location: "Mannheim, Germany"
 ---
+
+This course will teach students how to address social science questions in the fields of international relations and European integration by analyzing quantitative data in R. The course will introduce students to R, a free and versatile software environment for statistical computing and graphics. Students will learn about data management, basic principles for statistical inference, techniques for dealing with continuous and binary dependent variables and data visualization.
+
+## Course Objectives
+After this course, students will be able to preprocess the data required to answer their own research questions, identify the correct statistical model for different types of data and research questions and to justify their decision. They are able to correctly specify and implement such models in R and to describe and visualize the results as well as to evaluate and interpret them in light of the research question. The goal is to provide students with the foundation to perform their own analyses (e.g. for their BA theses) by transferring the acquired skills to their research interests and to become critical consumers of statistical claims made in the news, policy reports and academic research.

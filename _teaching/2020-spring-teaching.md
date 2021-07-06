@@ -1,5 +1,5 @@
 ---
-title: "Quantitative Methods in International Relations"
+title: "2020 - Spring - Quantitative Methods in International Relations"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-spring-teaching
@@ -10,7 +10,7 @@ location: "Mannheim, Germany"
    
   
 
-This course taught students how to address social science questions in the fields of international relations and European integration by analyzing quantitative data in R. The course will introduce students to R, a free and versatile software environment for statistical computing and graphics. Students will learn about data management, basic principles for statistical inference, techniques or dealing with continuous, binary and count variables and data visualization.
+This course taught students how to address social science questions in the fields of international relations and European integration by analyzing quantitative data in R. The course will introduce students to R, a free and versatile software environment for statistical computing and graphics. Students will learn about data management, basic principles for statistical inference, techniques or dealing with continuous, binary and count variables and data visualization. This course was taught using the statistical software `R`. 
 
 
 ## Course Objectives

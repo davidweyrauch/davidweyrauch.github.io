@@ -1,5 +1,5 @@
 ---
-title: "Quantitative Methods in International Relations"
+title: "2019 - Spring - Quantitative Methods in International Relations"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-spring-teaching

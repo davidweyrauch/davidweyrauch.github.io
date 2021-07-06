@@ -1,5 +1,5 @@
 ---
-title: "Determinants of International Cooperation"
+title: "2020 - Fall - Determinants of International Cooperation"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-fall-teaching-1
