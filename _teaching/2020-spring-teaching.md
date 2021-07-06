@@ -4,15 +4,16 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-spring-teaching
 venue: "University of Mannheim, Department of Political Science II - European Politics"
-date: 2012-02-18
+date: 2020-02-18
 location: "Mannheim, Germany"
 ---
 
+test test test
 
 ## Course Description
 
 
-This course will teach students how to address social science questions in the fields of international relations and European integration by analyzing quantitative data in R. The course will introduce students to R, a free and versatile software environment for statistical computing and graphics. Students will learn about data management, basic principles for statistical inference, techniques or dealing with continuous, binary and count variables and data visualization.
+This course taught students how to address social science questions in the fields of international relations and European integration by analyzing quantitative data in R. The course will introduce students to R, a free and versatile software environment for statistical computing and graphics. Students will learn about data management, basic principles for statistical inference, techniques or dealing with continuous, binary and count variables and data visualization.
 
 
 ## Course Objectives
