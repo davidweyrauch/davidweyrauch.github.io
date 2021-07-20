@@ -1,7 +1,7 @@
 ---
 title: "Signalling opposition or struggling to compromise? Analyzing abstention votes in the UN general assembly"
-collection: projects
-permalink: /projects/abstentions
+collection: drafts
+permalink: /drafts/abstentions
 excerpt: 'Scholarship in IR has frequently relied on preference similarity measures based on voting patterns in the United Nations General Assembly. Yet, why do states abstain from UN Voting? This underresearhed question may have grave implications for our understanding of international cooperation.'
 date: 2021-07-19
 ---
