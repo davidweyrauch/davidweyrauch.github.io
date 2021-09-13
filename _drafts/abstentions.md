@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Signalling opposition or struggling to compromise? Analyzing abstention votes in the UN general assembly"
 collection: drafts
 type: "Draft paper"
