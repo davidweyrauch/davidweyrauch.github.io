@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Working Projects"
+title: "Current Projects"
 permalink: /drafts/
 author_profile: true
 ---
