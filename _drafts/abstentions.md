@@ -2,7 +2,8 @@
 layout: single
 title: "Signalling opposition or struggling to compromise? Analyzing abstention votes in the UN general assembly"
 header:
-  teaser: "unsplash-gallery-image-2-th.jpg"categories: 
+  teaser: "unsplash-gallery-image-2-th.jpg"
+categories: 
   - Jekyll
 tags:
   - United National General Assembly, International Preferences, Coalition Foreign Policy, Ideological Fractionalization
