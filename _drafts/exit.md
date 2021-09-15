@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "The effect of Chinese government policy on transnational internet standard-setting"
+title:  "Exit from intergovernmental organizations - How domestic politics conditions international disintegration"
 header:
   teaser: "unsplash-gallery-image-2-th.jpg"
 categories: 
