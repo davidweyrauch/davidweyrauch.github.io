@@ -250,7 +250,7 @@ defaults:
   # _drafts
   - scope:
       path: ""
-      type: publications
+      type: drafts
     values:
       layout: single
       author_profile: true
