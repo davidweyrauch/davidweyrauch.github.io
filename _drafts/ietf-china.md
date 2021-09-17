@@ -1,7 +1,6 @@
 ---
 layout: single
 title:  "The effect of Chinese government policy on transnational internet standard-setting"
-
 ---
 
 With [Thomas Winzen](https://thomaswinzen.com/): Does Chinese government policy influence private participation in transnational internet governance?
