@@ -1,12 +1,7 @@
 ---
 layout: single
 title:  "The effect of Chinese government policy on transnational internet standard-setting"
-header:
-  teaser: "unsplash-gallery-image-2-th.jpg"
-categories: 
-  - Jekyll
-tags:
-  - Transnational Standard-Setting, Internet Governance, China, Internet Engineering Task Force, Government Policy
+
 ---
 
 With [Thomas Winzen](https://thomaswinzen.com/): Does Chinese government policy influence private participation in transnational internet governance?

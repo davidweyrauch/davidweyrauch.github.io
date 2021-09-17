@@ -3,10 +3,6 @@ layout: single
 title:  "Exit from intergovernmental organizations - How domestic politics conditions international disintegration"
 header:
   teaser: "unsplash-gallery-image-2-th.jpg"
-categories: 
-  - Jekyll
-tags:
-  - International Disintegration, Coalition Foreign Policy, Ideological Fractionalization, Government Policy
 ---
 
 Are there conditioning commonalities between Brexit, the decision of the United States to pull out of the Transpacific Partnership Agreement (TPP), or the Japanese decision to withdraw from the International Whaling Commission (IWC)?

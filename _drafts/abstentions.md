@@ -1,15 +1,7 @@
 ---
 layout: single
 title: "Signalling opposition or struggling to compromise? Analyzing abstention votes in the UN general assembly"
-header:
-  teaser: "unsplash-gallery-image-2-th.jpg"
-categories: 
-  - Coalition Foreign Policy
-tags:
-  - United National General Assembly
-  - International Preferences
-  - Coalition Foreign Policy
-  - Ideological Fractionalization
+
 ---
 
 Does the decision to abstain in the UNGA depend on the domestic ideological fractionalization of coalition parties? 
